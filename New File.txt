@@ -1,3 +1,6 @@
 New Local File
+Some other line of text
 Remote Repository line
+Some other line of text
 Local line of text
+Some other line of text
