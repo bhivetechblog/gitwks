@@ -1,2 +1,3 @@
 New Local File
 Remote Repository line
+Local line of text
